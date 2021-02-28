@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:200/');
+define('HTTP_SERVER', 'http://localhost/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:200/');
+define('HTTPS_SERVER', 'http://localhost/');
 
 // DIR
 define('DIR_APPLICATION', 'C:/Users/nome/Documents/Repositorios/PHP/opencartbrasil/catalog/');
